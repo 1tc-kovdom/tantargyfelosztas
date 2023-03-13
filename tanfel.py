@@ -26,3 +26,17 @@ Hány bejegyzés található az állományban? Az eredményt írassa ki a képer
 """
 print("2. feladat")
 print(f"A fájlban {len(beosztasok)} bejegyzés van.")
+
+def osszegzes(bok):
+    osszeg=0
+    for elem in bok:
+        osszeg+=elem["oraszam"]
+    return osszeg
+"""
+3. feladat
+Mennyi a heti össz óraszám az iskolában?
+"""
+
+print("3. feladat")
+print(f"Az iskolában a heti összóraszám: {osszegzes(beosztasok)}")
+

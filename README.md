@@ -55,7 +55,7 @@ Hány bejegyzés található az állományban? Az eredményt írassa ki a képer
 
 """
 3. feladat
-Hány bejegyzés található az állományban? Az eredményt írassa ki a képernyőre!
+Mennyi a heti össz óraszám az iskolában?
 """
 
 """
